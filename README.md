@@ -1,3 +1,3 @@
 # Tough Projects
 
-My solutions to these
+My solutions to these assignments
